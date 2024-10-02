@@ -1,9 +1,9 @@
-- 👋 Hi, I’m T0ADLY
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me U dont
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m T0ADLY.
+- 👀 I’m interested in robotics.
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on nothing with no one.
+- 📫 How to reach me: U dont.
+- 😄 Pronouns: Nunya
 - ⚡ Fun fact: Im Cool 😎
 :)
 <!---
